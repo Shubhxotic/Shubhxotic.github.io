@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Shubham Agarwal
+bio: A Man who reads about the world on Internet
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about me and related stuff.
 
 # if it's an external image, update below for true
 # better with square images
@@ -53,11 +53,11 @@ email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Shubham Agarwal
+        bio: A Man who reads about the world on internet.LOL 
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+        picture: assets/images/2016-05-06-015837.jpg
+        twitter: agarwalshubh97
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
